@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8,
+      "name": "Cactus",
+      "image": "https://i.ytimg.com/an/gWiLdRbe1JM/6832122967693204271_mq.jpg?v=5f52c82c",
+      "price": 30.99
     }
   ]
 }
